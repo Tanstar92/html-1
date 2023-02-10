@@ -1,0 +1,35 @@
+h1 {
+   text-decoration: underline;
+   text-align: center;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    font-weight: 800;
+}
+
+div#first {
+    text-indent: 3em;
+    border-top: 3px dashed aquamarine;
+    border-left: 3px dotted red;
+    border-bottom: 3px solid purple;
+    padding-right: 2em;
+    overflow-y: scroll;
+    height: 100px;
+    margin-left: 40px;
+}
+
+div#second {
+    text-decoration: line-through;
+    text-align: right;
+    border: 3px solid purple;
+    padding-right: 2em;
+    height: 20px;
+    margin-left: 40px;
+}
+
+ #italic {
+    font-style: italic; 
+}
+
